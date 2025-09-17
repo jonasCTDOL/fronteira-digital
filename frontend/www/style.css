@@ -1,0 +1,19 @@
+body, html { 
+    margin: 0; 
+    padding: 0; 
+    height: 100%; 
+    font-family: sans-serif; 
+    display: flex;
+    flex-direction: column;
+}
+header { 
+    padding: 10px; 
+    background: #333; 
+    color: white; 
+    text-align: center; 
+    flex-shrink: 0; /* Prevent header from shrinking */
+}
+#map { 
+    flex-grow: 1; /* Allow map to grow and fill remaining space */
+    width: 100%; 
+}

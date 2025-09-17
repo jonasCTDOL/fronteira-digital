@@ -1,0 +1,5 @@
+{
+    "name": "FRONTEIRA DIGITAL", "short_name": "Carcará", "start_url": ".",
+    "display": "standalone", "background_color": "#fff",
+    "description": "Plataforma de mapas do Projeto Carcará."
+}

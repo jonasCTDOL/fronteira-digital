@@ -16,7 +16,6 @@ O Projeto Carcará, materializado na plataforma **Fronteira Digital**, é um sis
 
 Inspirado na facilidade de uso de aplicações como o Google Maps, o sistema foi construído sob medida para as necessidades da segurança pública, permitindo que nossas equipes transformem dados brutos em inteligência acionável diretamente no mapa da nossa região.
 
-*Sugestão de imagem: Um mapa da região com exemplos de polígonos de patrulha, marcadores de ocorrências e rotas planejadas.*
 
 -----
 

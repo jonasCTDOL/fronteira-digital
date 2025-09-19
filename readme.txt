@@ -1,3 +1,5 @@
+![Texto Alternativo](https://github.com/jonasCTDOL/fronteira-digital/blob/apis_externas/logo.png)
+
 # Guia Detalhado de Configuração e Uso do uMap com Docker
 
 Este guia oferece uma visão abrangente sobre a construção, configuração e execução de uma instância do uMap utilizando Docker e Docker Compose, ideal para desenvolvimento local e preparação para deploy.
